@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "databasetest1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "79acc38e-ddbb-4ed5-a33e-c23aef7ff0f0",
+      "database_name": "plain-waterfall-9f95-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
